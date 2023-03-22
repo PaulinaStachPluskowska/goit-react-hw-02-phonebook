@@ -2,7 +2,6 @@
     display: flex;
     flex-direction: column;
     list-style: none;
-    margin-left: 10px;
     gap: 25px;
   }
 
@@ -30,7 +29,7 @@
   }
   
   .button {
-    margin-left: 25px;
+    margin-left: 15px;
     display: inline-block;
     color: #232366;
     background-color: #c6cefa;
